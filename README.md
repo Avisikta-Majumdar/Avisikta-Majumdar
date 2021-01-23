@@ -3,7 +3,7 @@
 I am a 3rd year Computer Science student, fascinated towards DataScience, hope to have a good time :')
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="avisikta-majumdar" /> </p>
 - 🔭 I’m currently working on ... Data Science Projects
 - 🌱 I’m currently learning ... Deployment using Heroku
 - 🤔 I’m looking for help with ... DL & NLP
