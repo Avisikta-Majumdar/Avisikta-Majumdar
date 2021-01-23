@@ -1,5 +1,4 @@
-### Hi there 👋
-नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar [](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
+### नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 
 I am a 3rd year Computer Science student, fascinated towards DataScience, hope to have a good time :')
 <!--
