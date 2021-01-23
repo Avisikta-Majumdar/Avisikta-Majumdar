@@ -1,7 +1,7 @@
 ### Hi there 👋
 नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar (https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <!--
-**Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
  
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
