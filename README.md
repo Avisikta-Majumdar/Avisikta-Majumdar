@@ -21,12 +21,12 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 
 
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/avisikta-majumdar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/avisikta-majumdar/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/avisiktamajumdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/avisiktamajumdar" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/avisikta.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/avisikta.19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/idofavisikta_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/avisikta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/avisikta/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avisikta-majumdar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/avisikta-majumdar/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/avisiktamajumdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/avisiktamajumdar" height="30" width="40" /></a>
+<a href="https://fb.com/avisikta.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/avisikta.19" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/idofavisikta_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
+<a href="https://leetcode.com/avisikta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/avisikta/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
 </p>
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <!--
