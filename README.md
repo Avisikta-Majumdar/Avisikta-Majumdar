@@ -21,7 +21,7 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
 
 
-
+<h3 align="left">Reach me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avisikta-majumdar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/avisikta-majumdar/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/avisiktamajumdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/avisiktamajumdar" height="30" width="40" /></a>
