@@ -14,7 +14,14 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 
-
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/avisikta-majumdar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/avisikta-majumdar/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/avisiktamajumdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/avisiktamajumdar" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/avisikta.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/avisikta.19" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/idofavisikta_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/avisikta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/avisikta/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
+</p>
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 <!--
 [sss]https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966)
