@@ -3,13 +3,7 @@
 I am a 3rd year Computer Science student, fascinated towards DataScience, hope to have a good time :')
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-  <!--(https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)-->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avisikta-majumdar&show_icons=true&locale=en" alt="avisikta-majumdar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avisikta-majumdar&" alt="avisikta-majumdar" /></p>
-
+ 
 - 🔭 I’m currently working on ... Data Science Projects
 - 🌱 I’m currently learning ... Deployment using Heroku
 - 🤔 I’m looking for help with ... DL & NLP
@@ -33,14 +27,7 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-
-</p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
-
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Reach me :</h3>
 <p align="left">
@@ -51,10 +38,6 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 <a href="https://leetcode.com/avisikta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/avisikta/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
 </p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat" alt="avisikta-majumdar" /> </p>
 
 <!--
 [sss]https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966)
