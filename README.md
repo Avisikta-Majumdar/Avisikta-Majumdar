@@ -9,7 +9,7 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 - 🌱 I’m currently learning ... Deployment using Heroku
 - 🤔 I’m looking for help with ... DL & NLP
 - 💬 Ask me about: Anything ( not my personal life , duhh !! )
-- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/avisikta.19) ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar)
+- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/avisikta.19) ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar) ✔️**idofavisikta.19@gmail.com**
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
