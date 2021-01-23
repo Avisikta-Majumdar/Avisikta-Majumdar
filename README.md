@@ -4,10 +4,10 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on ... Data Science Projects
-- 🌱 I’m currently learning ... Deployment using Heroku
-- 🤔 I’m looking for help with ... DL & NLP
-- 💬 Ask me about: Anything ( not my personal life , duhh !! )
+- 🔭 I’m currently working on :- Data Science Projects
+- 🌱 I’m currently learning :- Deployment using Heroku
+- 🤔 I’m looking for help with :- DL & NLP
+- 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - 📫 How to reach me: ✔️[facebook](https://www.facebook.com/avisikta.19) ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar) ✔️**idofavisikta.19@gmail.com**
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
