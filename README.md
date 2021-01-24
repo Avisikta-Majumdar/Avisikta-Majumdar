@@ -19,8 +19,8 @@
 [<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 
-<h2>      </h2>
-<h3 align="left">Languages and Tools:</h3>
+<h2></h2>
+<h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
