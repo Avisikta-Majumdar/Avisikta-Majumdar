@@ -14,12 +14,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="avisikta-majumdar" /> </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi<b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
 
 [<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 
-
+<h2>      </h2>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
