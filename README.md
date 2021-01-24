@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
-
-I am a 3rd year Computer Science student, fascinated towards DataScience, hope to have a good time :')
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h3>I am a 3rd year Computer Science student, fascinated towards DataScience, hope to have a good time :')</h3>
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -8,13 +8,17 @@ I am a 3rd year Computer Science student, fascinated towards DataScience, hope t
 - 🌱 I’m currently learning :- Deployment using Heroku
 - 🤔 I’m looking for help with :- DL & NLP
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
-- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/avisikta.19) ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar) ✔️**idofavisikta.19@gmail.com**
+- 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
-### **I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="avisikta-majumdar" /> </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi<b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+[<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
+[<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
