@@ -5,7 +5,7 @@
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on :- Data Science Projects
-- 🌱 I’m currently learning :- Deployment using Heroku
+- 🌱 I’m currently learning :- Deep Learning
 - 🤔 I’m looking for help with :- DL & NLP
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
