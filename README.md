@@ -1,6 +1,7 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3>I am a 3rd year Computer Science student, fascinated towards DataScience, hope to have a good time :')</h3>
+
+### 𝓘 𝓪𝓶 𝓪 3𝓻𝓭 𝔂𝓮𝓪𝓻 � 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮, 𝓐𝓘 𝓪𝓷𝓭 𝓜𝓛 ❤️
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -18,6 +19,25 @@
 
 [<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+
+
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&logo=Transformers&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-HuggingFace-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 <h2></h2>
 <h3 align="left"><b>Languages and Tools:</b></h3>
