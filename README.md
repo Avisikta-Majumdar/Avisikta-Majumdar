@@ -20,7 +20,7 @@
 [<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 
-
+<h2></h2>
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
