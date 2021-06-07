@@ -20,21 +20,8 @@
 [<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 
+<h2></h2>
 
-<!--### Languages and Tools:
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&logo=Transformers&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-HuggingFace-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 <h2></h2>
 <h3 align="left"><b>Languages and Tools:</b></h3>
