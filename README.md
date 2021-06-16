@@ -1,7 +1,7 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 𝓘 𝓪𝓶 𝓪 3𝓻𝓭 𝔂𝓮𝓪𝓻 � 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮, 𝓐𝓘 𝓪𝓷𝓭 𝓜𝓛 ❤️
+### 𝓘 𝓪𝓶 𝓪 3𝓻𝓭 𝔂𝓮𝓪𝓻 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮, 𝓐𝓘 𝓪𝓷𝓭 𝓜𝓛 ❤️
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="avisikta-majumdar" /> </p>
-[![followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/Avisikta-Majumdar?tab=followers) 
+[![followers](https://img.shields.io/github/followers/Avisikta-Majumdar?style=social)](https://github.com/Avisikta-Majumdar?tab=followers) 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
 
