@@ -14,7 +14,7 @@
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="avisikta-majumdar" /> </p>
-[![followers](https://img.shields.io/github/followers/Avisikta-Majumdar?style=social)](https://github.com/Avisikta-Majumdar?tab=followers) 
+[![followers](https://img.shields.io/github/followers/Avisikta-Majumdar?style=social)]
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
 
