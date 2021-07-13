@@ -52,6 +52,8 @@
  </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
  
  <br>
+ <br></br></br><br>
+ <br></br></br><br>
  <br></br></br>
  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
