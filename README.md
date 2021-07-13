@@ -50,5 +50,8 @@
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avisikta-majumdar&show_icons=true&locale=en" alt="avisikta-majumdar" />
  </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
- 
+ <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
  
