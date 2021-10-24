@@ -17,7 +17,6 @@
 <p> <img src="https://img.shields.io/github/followers/Avisikta-Majumdar?style=social" alt="avisikta-majumdar" /> </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b>so if you want to say hi, <b> I'll be happy to meet you more!</b> 😊</em>
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Idofavisikta_19)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
 [<img align="left" alt="Avisikta Majumdar | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 
