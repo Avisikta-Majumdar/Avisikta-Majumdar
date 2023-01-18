@@ -1,12 +1,12 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Avisikta Majumdar [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Immediate Joiner | Senior Associate Analyst @WNS | Data Science Enthusiast | Python | SQL | Data Analytics | Machine Learning | NLP | Deep Learning 
+### Junior Data Scientist @Edelweiss| Ex-WNS-AlmaBetter-iNeuron 
 <!--
 **Avisikta-Majumdar/Avisikta-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on :- Data Science Projects
-- 🌱 I’m currently learning :- Deep Learning
+- 🌱 I’m currently learning :- AWS
 - 🤔 I’m looking for help with :- DL & NLP
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/avisikta-majumdar) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
