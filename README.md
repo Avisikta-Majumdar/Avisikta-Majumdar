@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on :- Data Science Projects
 - 🌱 I’m currently learning :- AWS
 - 🤔 I’m looking for help with :- DL & NLP
-- 💬 Ask me about:- **Python, Machine learning, SQL, AWS (EC2, S3, lambda), Streamlit, Domain(Insurance)** 
+- 💬 Ask me about:- **Python, Machine learning, SQL, AWS (EC2, S3, SageMaker, CloudWatch, Lambda), Streamlit, Domain(Insurance)** 
 - 📫 How to reach me :
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofavisikta.19@gmail.com.com&su=SUBJECT&body=BODY&tf=1" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/avisikta-majumdar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
